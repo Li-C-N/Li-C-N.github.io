@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to 私 の Pages,私　は　り　はん　とう　です
 
-You can use the [editor on GitHub](https://github.com/Li-C-N/Li-C-N.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
